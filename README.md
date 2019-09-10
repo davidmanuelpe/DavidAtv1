@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <th>CPF</th>
-    <th>Nome</th>
+    <th>107.850.264-10</th>
+    <th>David Manuel Marcolino</th>
   </tr>
   <tr>
     <td>071.486.084-06 </td>
